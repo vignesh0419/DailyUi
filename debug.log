@@ -1,0 +1,18 @@
+[0728/230016.479:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0728/230016.667:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff9b485ed20 of 12 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0728/230016.557:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0728/230016.479:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0728/230016.479:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0728/230016.479:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0728/230016.479:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0728/230016.479:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0728/230016.807:ERROR:exception_snapshot_win.cc(98)] thread ID 11988 not found in process
+[0728/230016.807:WARNING:process_snapshot_win.cc(71)] ReadMemory ExceptionInformation failed
+[0728/230016.807:ERROR:exception_snapshot_win.cc(98)] thread ID 13320 not found in process
+[0728/230016.807:ERROR:exception_snapshot_win.cc(98)] thread ID 7072 not found in process
+[0728/230016.807:ERROR:exception_snapshot_win.cc(98)] thread ID 14796 not found in process
+[0728/230016.807:ERROR:exception_snapshot_win.cc(98)] thread ID 16184 not found in process
+[0728/230016.807:ERROR:exception_snapshot_win.cc(98)] thread ID 468 not found in process
+[0728/230016.807:ERROR:exception_snapshot_win.cc(98)] thread ID 4976 not found in process
+[0728/230016.839:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0728/230016.839:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
